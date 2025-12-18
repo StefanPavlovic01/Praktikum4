@@ -1,5 +1,1 @@
-Altstadt
-1234	
-Rundgang durch die Innenstadt	
-10.0	
-20251221_20251224
+Altstadt;1234;Rundgang durch die Innenstadt;10.0;20251221_20251224
